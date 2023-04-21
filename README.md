@@ -1,4 +1,4 @@
-# 📂 &nbsp;Top repositories
+# 📂 &nbsp;Projects
 
 ## ✨ &nbsp;Top
 
@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=zozor-travel-diary&theme=buefy" />
   </a>
 
-## <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React projects
+## <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React
 
 
 <a href="https://github.com/s-t-e-v/carousel-react">
@@ -44,7 +44,7 @@
 <a href="https://github.com/s-t-e-v/zozor-travel-diary">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=zozor-travel-diary&theme=buefy" /></a>
 
-## <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python projects
+## <img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python
 
 <a href="https://github.com/s-t-e-v/todolist2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=s-t-e-v&repo=todolist2&theme=buefy" />
